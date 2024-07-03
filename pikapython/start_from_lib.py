@@ -1,0 +1,1 @@
+print("* here in start_from_lib")
